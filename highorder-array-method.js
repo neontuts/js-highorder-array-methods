@@ -8,7 +8,12 @@ const companies= [
   {name: "Company Seven", category: "Auto", start: 1986, end: 1996},
   {name: "Company Eight", category: "Technology", start: 2011, end: 2016},
   {name: "Company Nine", category: "Retail", start: 1981, end: 1989},
-  {name: "Company Ten", category: "Auto", start: 1980, end: 1999}
+  {name: "Company Ten", category: "Auto", start: 1980, end: 1999},
+  {name: "Company Eleven", category: "Auto", start: 1975, end: 1995},
+  {name: "Company Twelve", category: "Finance", start: 1983, end: 2001},
+  {name: "Company Thirteen", category: "Retail", start: 1980, end: 1999},
+  {name: "Company Fourteen", category: "Auto", start: 1995, end: 2019},
+  {name: "Company Fifteen", category: "Technology", start: 1971, end: 1991}
 ];
 
 const ages = [33, 12, 20, 16, 5, 54, 21, 44, 61, 13, 15, 45, 25, 64, 32];
